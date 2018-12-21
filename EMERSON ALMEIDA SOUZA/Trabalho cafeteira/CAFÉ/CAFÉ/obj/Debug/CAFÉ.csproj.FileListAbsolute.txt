@@ -1,0 +1,105 @@
+C:\Users\emerson.souza\Desktop\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe.config
+C:\Users\emerson.souza\Desktop\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe
+C:\Users\emerson.souza\Desktop\CAFÉ\CAFÉ\bin\Debug\CAFÉ.pdb
+C:\Users\emerson.souza\Desktop\CAFÉ\CAFÉ\obj\Debug\CAFÉ.Properties.Resources.resources
+C:\Users\emerson.souza\Desktop\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csproj.GenerateResource.cache
+C:\Users\emerson.souza\Desktop\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csproj.CoreCompileInputs.cache
+C:\Users\emerson.souza\Desktop\CAFÉ\CAFÉ\obj\Debug\CAFÉ.exe
+C:\Users\emerson.souza\Desktop\CAFÉ\CAFÉ\obj\Debug\CAFÉ.pdb
+C:\Users\emerson.souza\Desktop\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csprojAssemblyReference.cache
+C:\Users\emerson.souza\Desktop\CAFÉ\CAFÉ\obj\Debug\CAFÉ.CAFETEIRA.resources
+D:\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe.config
+D:\CAFÉ\CAFÉ\obj\Debug\CAFÉ.exe
+D:\CAFÉ\CAFÉ\obj\Debug\CAFÉ.pdb
+E:\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe.config
+E:\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe
+E:\CAFÉ\CAFÉ\bin\Debug\CAFÉ.pdb
+E:\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csprojAssemblyReference.cache
+E:\CAFÉ\CAFÉ\obj\Debug\CAFÉ.CAFETEIRA.resources
+E:\CAFÉ\CAFÉ\obj\Debug\CAFÉ.Properties.Resources.resources
+E:\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csproj.GenerateResource.cache
+E:\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csproj.CoreCompileInputs.cache
+E:\CAFÉ\CAFÉ\obj\Debug\CAFÉ.exe
+E:\CAFÉ\CAFÉ\obj\Debug\CAFÉ.pdb
+F:\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe.config
+F:\CAFÉ\CAFÉ\obj\Debug\CAFÉ.exe
+F:\CAFÉ\CAFÉ\obj\Debug\CAFÉ.pdb
+F:\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe
+F:\CAFÉ\CAFÉ\bin\Debug\CAFÉ.pdb
+F:\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csprojResolveAssemblyReference.cache
+F:\CAFÉ\CAFÉ\obj\Debug\CAFÉ.CAFETEIRA.resources
+F:\CAFÉ\CAFÉ\obj\Debug\CAFÉ.Properties.Resources.resources
+F:\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csproj.GenerateResource.Cache
+D:\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe
+D:\CAFÉ\CAFÉ\bin\Debug\CAFÉ.pdb
+D:\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csprojResolveAssemblyReference.cache
+D:\CAFÉ\CAFÉ\obj\Debug\CAFÉ.CAFETEIRA.resources
+D:\CAFÉ\CAFÉ\obj\Debug\CAFÉ.Properties.Resources.resources
+D:\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csproj.GenerateResource.Cache
+E:\Emerson\Arquivs\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe.config
+E:\Emerson\Arquivs\CAFÉ\CAFÉ\obj\Debug\CAFÉ.exe
+E:\Emerson\Arquivs\CAFÉ\CAFÉ\obj\Debug\CAFÉ.pdb
+E:\Emerson\Arquivs\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe
+E:\Emerson\Arquivs\CAFÉ\CAFÉ\bin\Debug\CAFÉ.pdb
+E:\Emerson\Arquivs\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csprojResolveAssemblyReference.cache
+E:\Emerson\Arquivs\CAFÉ\CAFÉ\obj\Debug\CAFÉ.CAFETEIRA.resources
+E:\Emerson\Arquivs\CAFÉ\CAFÉ\obj\Debug\CAFÉ.Properties.Resources.resources
+E:\Emerson\Arquivs\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csproj.GenerateResource.Cache
+C:\Users\emerson.souza\Desktop\Backupzin\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe.config
+C:\Users\emerson.souza\Desktop\Backupzin\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe
+C:\Users\emerson.souza\Desktop\Backupzin\CAFÉ\CAFÉ\bin\Debug\CAFÉ.pdb
+C:\Users\emerson.souza\Desktop\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csprojAssemblyReference.cache
+C:\Users\emerson.souza\Desktop\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.CAFETEIRA.resources
+C:\Users\emerson.souza\Desktop\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.Properties.Resources.resources
+C:\Users\emerson.souza\Desktop\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csproj.GenerateResource.cache
+C:\Users\emerson.souza\Desktop\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csproj.CoreCompileInputs.cache
+C:\Users\emerson.souza\Desktop\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.exe
+C:\Users\emerson.souza\Desktop\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.pdb
+F:\Backupzin\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe.config
+F:\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.exe
+F:\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.pdb
+F:\Backupzin\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe
+F:\Backupzin\CAFÉ\CAFÉ\bin\Debug\CAFÉ.pdb
+F:\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.CAFETEIRA.resources
+F:\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.Properties.Resources.resources
+F:\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csproj.GenerateResource.Cache
+D:\Backupzin\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe.config
+D:\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.exe
+D:\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.pdb
+D:\Backupzin\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe
+D:\Backupzin\CAFÉ\CAFÉ\bin\Debug\CAFÉ.pdb
+D:\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csprojResolveAssemblyReference.cache
+D:\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.CAFETEIRA.resources
+D:\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.Properties.Resources.resources
+D:\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csproj.GenerateResource.Cache
+E:\Backupzin\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe.config
+E:\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.exe
+E:\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.pdb
+E:\Backupzin\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe
+E:\Backupzin\CAFÉ\CAFÉ\bin\Debug\CAFÉ.pdb
+E:\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csprojResolveAssemblyReference.cache
+E:\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.CAFETEIRA.resources
+E:\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.Properties.Resources.resources
+E:\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csproj.GenerateResource.Cache
+F:\Backupzin\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csprojResolveAssemblyReference.cache
+F:\Backupzin\Trabalho cafeteira\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe.config
+F:\Backupzin\Trabalho cafeteira\CAFÉ\CAFÉ\obj\Debug\CAFÉ.exe
+F:\Backupzin\Trabalho cafeteira\CAFÉ\CAFÉ\obj\Debug\CAFÉ.pdb
+F:\Backupzin\Trabalho cafeteira\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe
+F:\Backupzin\Trabalho cafeteira\CAFÉ\CAFÉ\bin\Debug\CAFÉ.pdb
+F:\Backupzin\Trabalho cafeteira\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csprojResolveAssemblyReference.cache
+F:\Backupzin\Trabalho cafeteira\CAFÉ\CAFÉ\obj\Debug\CAFÉ.CAFETEIRA.resources
+F:\Backupzin\Trabalho cafeteira\CAFÉ\CAFÉ\obj\Debug\CAFÉ.Properties.Resources.resources
+F:\Backupzin\Trabalho cafeteira\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csproj.GenerateResource.Cache
+D:\Backupzin\Trabalho cafeteira\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe.config
+D:\Backupzin\Trabalho cafeteira\CAFÉ\CAFÉ\obj\Debug\CAFÉ.exe
+D:\Backupzin\Trabalho cafeteira\CAFÉ\CAFÉ\obj\Debug\CAFÉ.pdb
+D:\EMERSON ALMEIDA SOUZA\Trabalho cafeteira\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe.config
+D:\EMERSON ALMEIDA SOUZA\Trabalho cafeteira\CAFÉ\CAFÉ\obj\Debug\CAFÉ.exe
+D:\EMERSON ALMEIDA SOUZA\Trabalho cafeteira\CAFÉ\CAFÉ\obj\Debug\CAFÉ.pdb
+D:\EMERSON ALMEIDA SOUZA\Trabalho cafeteira\CAFÉ\CAFÉ\bin\Debug\CAFÉ.exe
+D:\EMERSON ALMEIDA SOUZA\Trabalho cafeteira\CAFÉ\CAFÉ\bin\Debug\CAFÉ.pdb
+D:\EMERSON ALMEIDA SOUZA\Trabalho cafeteira\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csprojResolveAssemblyReference.cache
+D:\EMERSON ALMEIDA SOUZA\Trabalho cafeteira\CAFÉ\CAFÉ\obj\Debug\CAFÉ.CAFETEIRA.resources
+D:\EMERSON ALMEIDA SOUZA\Trabalho cafeteira\CAFÉ\CAFÉ\obj\Debug\CAFÉ.Properties.Resources.resources
+D:\EMERSON ALMEIDA SOUZA\Trabalho cafeteira\CAFÉ\CAFÉ\obj\Debug\CAFÉ.csproj.GenerateResource.Cache
